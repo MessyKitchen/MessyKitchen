@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MessyKitchen
+- 👀 I’m interested in learning how to code / program
+- 🌱 I’m currently learning Python, C and Godot (for game engine related stuff)
+- 💞️ I’m looking to collaborate on ... Nothing right now!
+- 📫 How to reach me ... Don't .. Not yet ..
